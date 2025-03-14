@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Saba!
 
 - 🎓 **Language Technologies & Digital Humanities Student**
-- 💡 Interested in **Data Annotation, AI, NLP, and Computer Vision**
+- 💡 Interested in **Data Annotation, AI, NLP, and LLM*
 - 📚 Learning **Python, Machine Learning & Image Processing**
 
 ### 📫 How to reach me:
