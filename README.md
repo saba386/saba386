@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Saba!
 
-- 🎓 **Language Technologies & Digital Humanities Student**
-- 💡 Interested in **Data Annotation, AI, NLP, and LLM*
-- 📚 Learning **Python, Machine Learning & Image Processing**
+- 🎓 MSc Student in Language Technologies & Digital Humanities  
+- 🔬 Research Focus: Emotion-aware AI systems and adaptive virtual reality environments  
+- 🛠 Developing projects using Unity, Python, Machine Learning, and Meta Quest Pro
 
 ### 📫 How to reach me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/saba-sarlak-893814184)
