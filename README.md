@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Saba!
 
-🎓 MSc Student in Language Technologies & Digital Humanities  
+🎓 MSc Graduate in Language Technologies & Digital Humanities  
 🧠 Research Interests: Human-Centered AI, Affective Computing, and Adaptive Interactive Systems  
 🔍 Exploring how intelligent systems can better understand and respond to human behavior
 
